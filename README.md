@@ -1,0 +1,2 @@
+# chardet
+python chardet module
